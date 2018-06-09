@@ -6,4 +6,4 @@ git clone 地址
 添加代码
 git add
 提交代码
-git commet -m "备注信息"
+git commit -m "备注信息"
